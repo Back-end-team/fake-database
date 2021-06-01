@@ -116,4 +116,4 @@ Field `user_id` is of type integer, and field `token` is a string.
 [1, 2, 3, 4] // IDs of the providers
 ```
 
-# Authors: Vlad Theodor, Goanta Matei, Peterca Adrian, Brinzila Maria, Serdenciuc Alexandra
+# Authors: Vlad Theodor, Goanta Matei, Peterca Adrian
