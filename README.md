@@ -115,3 +115,5 @@ Field `user_id` is of type integer, and field `token` is a string.
 ```json
 [1, 2, 3, 4] // IDs of the providers
 ```
+
+#Authors: THeodor Vlad, Matei Goanta, Peterca Adrian, Brinzila Maria, Serdenciuc Alexandra
