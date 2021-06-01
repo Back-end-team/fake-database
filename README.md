@@ -1,5 +1,5 @@
 # Database link
-HTTP requests can be issued to [this](https://fake-database-fe-support.herokuapp.com/) link.
+HTTP requests can be issued to [this](https://backend-fake-database.herokuapp.com/) link.
 
 # List of available requests 
 
